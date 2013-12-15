@@ -1,0 +1,12 @@
+{
+  "name": "jquery-mobile",
+  "description": "jQuery Mobile 1.4.0 RC1 packaged for Meteor",
+  "homepage": "https://github.com/pyorban/meteor-jquery-mobile",
+  "author": "Pierre-Yves Orban <orban.pierreyves@gmail.com>",
+  "version": "0.1.0",
+  "git": "https://github.com/pyorban/meteor-jquery-mobile.git",
+  "packages":
+  {
+    "jquery"
+  }
+}
